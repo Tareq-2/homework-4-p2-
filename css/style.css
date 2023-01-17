@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(155, 216, 196);
+    width: 40%;
+}
+
+
+h1{
+    color: black;
+    background-color: rgb(233, 186, 186);
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(170, 134, 204);
+}
+a{
+    color: rgb(48, 8, 8);
+    background-color: rgb(93, 221, 210);
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
